@@ -1,0 +1,26 @@
+DROP TABLE IF EXISTS imagemetadata;
+
+CREATE TABLE imagemetadata (id BIGINT,
+userid VARCHAR(20),
+title VARCHAR(1000),
+tags VARCHAR(1000),
+latitude DECIMAL(10, 5),
+longitude DECIMAL(10, 5),
+views BIGINT,
+date_taken DATETIME,
+date_uploaded DATETIME,
+Accuracy TINYINT,
+flickr_secret TINYINT,
+flickr_server SMALLINT,
+flickr_farm VARCHAR(15),
+x DECIMAL(30, 15),
+y DECIMAL(30, 15),
+z DECIMAL(30, 15),
+PRIMARY KEY(id));
+
+SELECT id, userid, latitude, longitude
+FROM imagemetadata
+LIMIT 2;
+
+DELETE FROM imagemetadata
+LIMIT 1;
