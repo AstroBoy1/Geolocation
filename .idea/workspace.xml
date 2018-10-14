@@ -4,7 +4,11 @@
     <bookmark url="file://$PROJECT_DIR$/s2.py" description="    # # get vertices from rect to draw them on map..." line="15" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1c8ced0-e287-45a6-b303-7e93bd94ec29" name="Default Changelist" comment="" />
+    <list default="true" id="a1c8ced0-e287-45a6-b303-7e93bd94ec29" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reading.py" beforeDir="false" afterPath="$PROJECT_DIR$/reading.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,13 +19,13 @@
     <session id="-1032821914">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="16" />
           <entry key="project.open.time.0" value="4" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.5" value="5" />
-          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.5" value="6" />
+          <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -38,14 +42,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="502" />
+          <entry key="Python Console" value="559" />
           <entry key="create_tables" value="274" />
-          <entry key="py" value="1230" />
+          <entry key="py" value="1902" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1732" />
+          <entry key="Python" value="2461" />
           <entry key="SQL" value="274" />
         </counts>
       </usages-collector>
@@ -57,7 +61,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/s2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
+            <state relative-caret-position="68">
               <caret line="4" selection-start-line="4" selection-end-line="4" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
@@ -69,13 +73,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/reading.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+            <state relative-caret-position="391">
+              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
-                <marker date="1539316370538" expanded="true" signature="567:570" ph="..." />
-                <marker date="1539316370538" expanded="true" signature="591:972" ph="..." />
-                <marker date="1539316370538" expanded="true" signature="998:1024" ph="..." />
+                <marker date="1539477508598" expanded="true" signature="594:597" ph="..." />
+                <marker date="1539477508598" expanded="true" signature="618:2108" ph="..." />
+                <marker date="1539477508598" expanded="true" signature="1906:2108" ph="..." />
+                <marker date="1539477508598" expanded="true" signature="2119:2124" ph="..." />
               </folding>
             </state>
           </provider>
@@ -124,8 +129,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-15" />
-    <option name="width" value="1005" />
+    <option name="x" value="721" />
+    <option name="y" value="5" />
+    <option name="width" value="1199" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -316,16 +322,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/s2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/create_tables">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -340,15 +336,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/s2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/reading.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        <state relative-caret-position="391">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-            <marker date="1539316370538" expanded="true" signature="567:570" ph="..." />
-            <marker date="1539316370538" expanded="true" signature="591:972" ph="..." />
-            <marker date="1539316370538" expanded="true" signature="998:1024" ph="..." />
+            <marker date="1539477508598" expanded="true" signature="594:597" ph="..." />
+            <marker date="1539477508598" expanded="true" signature="618:2108" ph="..." />
+            <marker date="1539477508598" expanded="true" signature="1906:2108" ph="..." />
+            <marker date="1539477508598" expanded="true" signature="2119:2124" ph="..." />
           </folding>
         </state>
       </provider>
